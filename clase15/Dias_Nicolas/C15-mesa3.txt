@@ -1,0 +1,6 @@
+
+1. Por cuestiones de compatibilidad, los recursos que ofrecen los sistemas operativos y losc moponeentes que necesitan cada lenguaje.
+
+2. Virtual Box es un software para virtualización, también conocido como hipervisor de tipo 2, que se utiliza para virtualizar sistemas operativos.
+
+3. Si una se rompe, no afecta a las demás dado que cada una opera de forma independiente.
